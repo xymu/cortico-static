@@ -1,5 +1,3 @@
-# corticoblog
-Jekyll blog for Cortico EMR and telehealth software
+# Cortico.ca Knowledge Base
+A GH-hosted Jekyll blog to serve as the knowledge base for Cortico medical booking and telehealth software.
 
-
-Currently staging, v 1.0 coming soon!
