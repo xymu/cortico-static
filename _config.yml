@@ -15,6 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cortico.ca" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  countable-web
+remote_theme: pmarsceill/just-the-docs
 
 # Build settings
 markdown: kramdown
